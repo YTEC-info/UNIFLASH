@@ -60,7 +60,6 @@ You can find their respective websites on archive.org here
     mobile 910/925 series
     
 # VIA: 
-    ICH
     486 with VT82C505
     Apollo Master
     Apollo VP
