@@ -96,5 +96,35 @@ You can find their respective websites on archive.org here
     AMD 8000 	 
     Geode SC1100
   	Geode SCx200
-   
+
+# SiS:
+    85C496+497
+    501/5101/5501
+  	5511
+  	5571
+    5591/5592
+  	5596
+    5597/5598/5581/5120
+    530
+  	540
+  	600
+    620
+    630
+  	635
+  	640
+  	645
+  	645DX
+  	648
+  	650
+  	651
+  	655
+  	730
+  	733
+    735
+  	740
+    745
+  	746
+    748
+  	755
+    
 # Supported flash ROMs
