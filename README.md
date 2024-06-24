@@ -74,17 +74,17 @@ You can find their respective websites on archive.org here
     Apollo Pro Plus/133
     Apollo Pro 133A 
     Apollo ProMedia
-  	Apollo Pro 133Z/PM133
-  	Apollo KX133
-   Apollo KT133(A)
-   ProSavage KM133(A)
-   Apollo KT266(A)/KT333
-   Apollo KT400(A)
-   UniChrome KM400(A)
-   Apollo Pro 266
-   Apollo Pro 266T 
-   ProSavage P4M266
-   P4X266(A)/P4X333/400
+    Apollo Pro 133Z/PM133
+    Apollo KX133
+    Apollo KT133(A)
+    ProSavage KM133(A)
+    Apollo KT266(A)/KT333
+    Apollo KT400(A)
+    UniChrome KM400(A)
+    Apollo Pro 266
+    Apollo Pro 266T 
+    ProSavage P4M266
+    P4X266(A)/P4X333/400
 
 # AMD: 
     AMD 640 
