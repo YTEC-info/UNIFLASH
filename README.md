@@ -13,7 +13,9 @@ You can find their respective websites on archive.org here
 # Supported chipsets
 
 # Intel: 
+    ICH7
     ICH8
+    ICH9
     Triton 430FX
     Triton II 430HX
     Triton II 430VX
